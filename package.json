@@ -1,0 +1,11 @@
+{
+  "name": "hello-docker-node",
+  "version": "1.0.0",
+  "description": "Un proyecto básico en Node.js para enseñar Docker",
+  "main": "app/index.js",
+  "scripts": {
+    "start": "node app/index.js"
+  },
+  "author": "Martín Gimenez",
+  "license": "MIT"
+}
